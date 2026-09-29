@@ -8,6 +8,7 @@ up to three friends (or CPU bots) and blow each other up in battle mode.
 
 BLAST GRID is written for Commander x16: a 65C02 at 8 MHz, the VERA
 video chip, YM2151 FM music and VERA PSG sound effects.
+
 ![BLAST GRID in action](docs/screenshots/demo.gif)
 
 ## Screenshots
