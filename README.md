@@ -6,6 +6,8 @@ Blow up every enemy, find the exit under the crates and get B.O.B., the Bomb
 Operations Bot, through five worlds of a very badly run facility. Or grab
 up to three friends (or CPU bots) and blow each other up in battle mode.
 
+[Download the latest BlastGrid release](https://github.com/sandlbn/BlastGrid/releases/latest)
+
 BLAST GRID is written for Commander x16: a 65C02 at 8 MHz, the VERA
 video chip, YM2151 FM music and VERA PSG sound effects.
 
